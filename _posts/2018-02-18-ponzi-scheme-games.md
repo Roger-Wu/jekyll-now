@@ -37,8 +37,8 @@ CryptoCountries 一言以蔽之是一個「**購買虛擬國家，並期待下�
 5. 以購買名畫為主題的 [CryptoMasterpieces](https://www.cryptomasterpieces.com) 和 [CryptoArts](https://www.cryptoarts.co/)
 6. 以購買政治人物為主題的 [Crypto Politicians](https://cryptopoliticians.co/)
 
-最後，**我自己也拿了 CryptoCountries 的合約來試做出一個 DApp**，叫 [CryptoRoger](https://roger-wu.github.io/crypto-roger/index.html)（加密版的我XD）。規則跟 CryptoCountries 完全一樣，如果你想體驗 CryptoCountries 但覺得價格太高買不下手，可以玩玩看 CryptoRoger，你所花費的ETH以及我所獲得的ETH，會被當作對我以及對這篇文章的贊助！
+最後，**我自己也照著 CryptoCountries 的合約試做出了一個 DApp**，叫 [CryptoRoger](https://roger-wu.github.io/crypto-roger/index.html)（加密版的我XD）。規則跟 CryptoCountries 完全一樣，如果你想體驗 CryptoCountries 但覺得價格太高買不下手，可以玩玩看 CryptoRoger，你所花費的ETH以及我所獲得的ETH，會被當作對我以及對這篇文章的贊助！
 
-[![CryptoRoger](https://i.imgur.com/wBNGkR7.png)](https://roger-wu.github.io/crypto-roger)
+[![CryptoRoger](https://i.imgur.com/tjygXfo.png)](https://roger-wu.github.io/crypto-roger)
 
 **CryptoRoger 網址： [https://roger-wu.github.io/crypto-roger](https://roger-wu.github.io/crypto-roger)**
