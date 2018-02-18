@@ -17,6 +17,8 @@
     <meta property="twitter:title" content="{{ page.title }}" />
     {% endif %}
 
-    {% if page.image %}
-      <meta content="{{ page.image }}" property="og:image">
+    {% if post.image %}
+      <meta property="og:image" content="{{ post.image }}">
+    {% else %}
+      <meta property="og:image" content="{{ page.image }}">
     {% endif %}
