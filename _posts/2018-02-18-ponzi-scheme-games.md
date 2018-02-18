@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 區塊鏈遊戲的新熱潮：龐氏騙局遊戲
+image: https://i.imgur.com/lop42Zv.png
 ---
 
 在2018年2月10日到17日，一支名為 [**CryptoCountries**](https://cryptocountries.io/) 的 DApp（去中心化應用程式），**七天內的 ETH 交易總額達到了 44000 ETH**，相當於 4200 萬美金，或 12 億新台幣。大幅超越了排名第 2 的老牌賭場 [Etheroll](https://etheroll.com/) （7500 ETH），和排名第 5 的知名養貓遊戲 [CryptoKitties](https://www.cryptokitties.co/)（1750 ETH）。
