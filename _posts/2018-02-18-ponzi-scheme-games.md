@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 區塊鏈遊戲的新熱潮：龐氏騙局遊戲
+title: 區塊鏈遊戲的新熱潮：類龐氏騙局遊戲
 image: https://i.imgur.com/lop42Zv.png
 ---
 
