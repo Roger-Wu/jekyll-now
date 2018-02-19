@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 區塊鏈遊戲的新熱潮：類龐氏騙局遊戲
+title: 區塊鏈遊戲的新熱潮：龐氏騙局遊戲
 image: https://i.imgur.com/lop42Zv.png
 ---
 
@@ -38,7 +38,7 @@ CryptoCountries 一言以蔽之是一個「**購買虛擬國家，並期待下�
 5. 以購買名畫為主題的 [CryptoMasterpieces](https://www.cryptomasterpieces.com) 和 [CryptoArts](https://www.cryptoarts.co/)
 6. 以購買政治人物為主題的 [Crypto Politicians](https://cryptopoliticians.co/)
 
-最後，**我自己也照著 CryptoCountries 的合約試做出了一個 DApp**，叫 [CryptoRoger](https://roger-wu.github.io/crypto-roger/index.html)（加密版的我XD）。如果你想體驗 CryptoCountries 但覺得價格太高買不下手，可以玩玩看 CryptoRoger，規則跟 CryptoCountries 完全一樣，只是從主題「購買國家」變成「贊助我」，前一個贊助者可以透過後一個贊助者支付的費用獲利，而我也能收取2%-5%的開發費用！
+最後，**我自己也照著 CryptoCountries 的合約試做了一個 DApp**，叫 [CryptoRoger](https://roger-wu.github.io/crypto-roger/index.html)（加密版的我XD）。如果你想體驗 CryptoCountries 但覺得價格太高買不下手，可以玩玩看 CryptoRoger，規則跟 CryptoCountries 完全一樣，只是主題從「購買國家」變成「贊助我」，前一個贊助者可以透過後一個贊助者獲利，而我也能獲得2%-5%的開發費用！（目前無法顯示贊助者的位址以外的資訊，贊助者如果想顯示任何資訊在網頁上，歡迎直接聯絡我！）
 
 [![CryptoRoger](https://i.imgur.com/ca7Uh2l.png)](https://roger-wu.github.io/crypto-roger)
 
