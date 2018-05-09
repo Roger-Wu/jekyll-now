@@ -4,7 +4,7 @@ title: Project - Keyboard Pianist
 image: https://raw.githubusercontent.com/Roger-Wu/keyboard-pianist/master/images/og-image.png
 ---
 
-![demo image](https://github.com/Roger-Wu/keyboard-pianist/blob/master/images/og-image.png)
+![demo image](https://raw.githubusercontent.com/Roger-Wu/keyboard-pianist/master/images/og-image.png)
 
 A piano web-app with natural key mapping.
 
