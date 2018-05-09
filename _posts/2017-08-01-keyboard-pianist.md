@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project - Keyboard Pianist
-image: https://github.com/Roger-Wu/keyboard-pianist/blob/master/images/og-image.png
+image: https://raw.githubusercontent.com/Roger-Wu/keyboard-pianist/master/images/og-image.png
 ---
 
 ![demo image](https://github.com/Roger-Wu/keyboard-pianist/blob/master/images/og-image.png)
