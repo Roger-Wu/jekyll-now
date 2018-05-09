@@ -1,8 +1,10 @@
 ---
 layout: post
-title: \[教學\] 改善Acer筆電過熱問題 -- 風扇轉速控制軟體 (Fan Controller)
+title: 教學 - 改善Acer筆電過熱問題 -- 風扇轉速控制軟體 (Fan Controller)
 image: http://2.bp.blogspot.com/-Kr3IjPoUPVI/VEWp1jLKGSI/AAAAAAAAANM/0DqvZzzWYNU/s1600/FanController.png
 ---
+
+![fan controller](http://2.bp.blogspot.com/-Kr3IjPoUPVI/VEWp1jLKGSI/AAAAAAAAANM/0DqvZzzWYNU/s1600/FanController.png)
 
 ## 前情提要
 
@@ -50,16 +52,13 @@ Normal按下去會調回原本的轉速<br />
 ### 1. 當然就是清風扇了
 
 前幾天花了幾個小時把筆電完全拆開<br />
-清了風扇再補散熱膏，現在筆電完全就是涼的 XD</div>
-<div>
+清了風扇再補散熱膏，現在筆電完全就是涼的 XD<br />
+<br />
 不過拆之前請三思，Acer Aspire 5750G必須完全拆開才能清風扇灰塵<br />
 這張是我拆開後照的：<br />
-<br />
-<div class="separator" style="clear: both; text-align: center;">
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="http://3.bp.blogspot.com/-2q_EjrzZpzk/VEWvEfp8oyI/AAAAAAAAANk/5GPcKr2dRRo/s1600/DSC_2534_cr.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="147" src="https://3.bp.blogspot.com/-2q_EjrzZpzk/VEWvEfp8oyI/AAAAAAAAANk/5GPcKr2dRRo/s1600/DSC_2534_cr.jpg" width="320" /></a></div>
-<br />
+
+<a href="http://3.bp.blogspot.com/-2q_EjrzZpzk/VEWvEfp8oyI/AAAAAAAAANk/5GPcKr2dRRo/s1600/DSC_2534_cr.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="147" src="https://3.bp.blogspot.com/-2q_EjrzZpzk/VEWvEfp8oyI/AAAAAAAAANk/5GPcKr2dRRo/s1600/DSC_2534_cr.jpg" width="320" /></a>
+
 拆的過程很複雜，螺絲一大堆，一不小心還可能把線扯斷<br />
 沒把握的話還是去店裡請人拆吧！<br />
 <br />
