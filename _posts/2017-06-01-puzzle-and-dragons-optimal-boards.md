@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Project] Puzzle & Dragons Optimal Boards
+title: Project - Puzzle & Dragons Optimal Boards
 image: https://raw.githubusercontent.com/Roger-Wu/puzzle-and-dragons-optimal-boards/master/visualize_result/images/demo.png
 ---
 
