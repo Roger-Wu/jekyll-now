@@ -10,11 +10,11 @@ A piano web-app with natural key mapping.
 
 ## Source Code
 
-https://github.com/Roger-Wu/keyboard-pianist
+[https://github.com/Roger-Wu/keyboard-pianist](https://github.com/Roger-Wu/keyboard-pianist)
 
 ## Demo
 
-https://roger-wu.github.io/keyboard-pianist
+[https://roger-wu.github.io/keyboard-pianist](https://roger-wu.github.io/keyboard-pianist)
 
 ## Features
 * Key range: C2-C7
