@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 無用 - 如何在 token 發行量裡埋彩蛋？
-image: https://i.imgur.com/qRyldDS.png
+image: https://i.imgur.com/XL7MsAi.png
 ---
 
-![Cortex Coin Total Supply](https://i.imgur.com/qRyldDS.png)
+![Cortex Coin Total Supply](https://i.imgur.com/XL7MsAi.png)
 
 故事從一個名為 Cortex Coin 的幣說起。
 它是由一個名為 Cortex 的項目發行的 ERC20 token。
